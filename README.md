@@ -23,5 +23,5 @@ Important Notes
 GPU Configuration: Ensure CUDA Toolkit 11.3 and compatible graphics drivers are installed to leverage GPU acceleration for training and prediction.
 Memory Management: If encountering memory issues, adjust batch sizes in the configuration file or use smaller datasets for testing.
 
-The model code is open-sourced on GitHub under the MIT License, allowing free use, modification, and distribution. Datasets are accessible via the specified link, adhering to open data protocols. For citations, please refer to the format provided in our paper.
+
 The source code is released under the Apache License 2.0, allowing free use, modification, and distribution for both academic and commercial purposes.
